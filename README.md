@@ -1,5 +1,5 @@
 # dockerhub-maven-graphviz
-https://hub.docker.com/repository/docker/irof/maven-graphviz/general
+https://hub.docker.com/r/irof/maven-graphviz
 
 ## usage
 
